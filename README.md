@@ -1,6 +1,6 @@
 # ML Homeworks
 
-## About the project
+## About this project
 Set of Machine Learning course homeworks (UniPD).
 
 ## Project structure

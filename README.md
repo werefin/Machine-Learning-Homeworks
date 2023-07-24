@@ -1,4 +1,4 @@
-# ML Homeworks
+# Machine Learning Homeworks
 
 ## About this project
 Set of Machine Learning course homeworks (UniPD).

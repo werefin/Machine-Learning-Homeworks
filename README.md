@@ -1,4 +1,4 @@
-# Machine Learning Homeworks
+## Machine Learning homeworks
 
 The repository contains homeworks from Machine Learning course (UniPD).
 
